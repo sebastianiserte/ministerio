@@ -49,6 +49,7 @@
         <div class="rd-container">
             <div class="rd-element rd-s-100">
                 <h2 class="text-color-blue-bold title-300-2em"><br>Preguntas Frecuentes</h2>
+                <p class="text-color-blue-bold" style="font-size: 12px;">Estas respuestas son resultado de las investigaciones realizadas a diciembre de 2020, serán actualizados. </p>
             </div>
         </div>
         <div class="rd-container">
